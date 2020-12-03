@@ -13,14 +13,14 @@ The repositories (both public and private) are a collection of work that I've wo
 I'm a DevOps & Cloud Solution Architect with my speciality in product design, development and infrastructure. Currently, I am working as a Technical Sales Engineer for Trend Micro.
 
 
-### `Contribute` :handshaking:
+### `Contribute` :clap:
 
 If you encounter a bug or think of a useful feature, or find something confusing in the docs, please
 **create a new issue**
 
-**PS.: Make sure to use an Issue Template available in the repository**
+    **PS.: Make sure to use an Issue Template available in the repository**
 
-I :heart: pull requests. If you'd like to fix a bug or contribute to a feature or simply correct a typo, please feel free to do so.
+I :hearts:  pull requests. If you'd like to fix a bug or contribute to a feature or simply correct a typo, please feel free to do so.
 
 If you're thinking of adding a new feature, consider opening an issue first to discuss it to ensure it aligns with the direction of the project (and potentially
 save yourself some time!).
