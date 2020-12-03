@@ -18,7 +18,7 @@ I'm a DevOps & Cloud Solution Architect with my speciality in product design, de
 If you encounter a bug or think of a useful feature, or find something confusing in the docs, please
 **create a new issue**
 
-    **PS.: Make sure to use an Issue Template available in the repository**
+> **P.S.: Make sure to use an Issue Template available in the repository**
 
 I :hearts:  pull requests. If you'd like to fix a bug or contribute to a feature or simply correct a typo, please feel free to do so.
 
