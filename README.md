@@ -10,7 +10,7 @@ The repositories (both public and private) are a collection of work that I've wo
 
 ### `Work` :nerd_face:
 
-I'm a DevOps & Cloud Solution Architect with my speciality in product design, development and infrastructure. Currently, I am working as a Technical Sales Engineer for Trend Micro.
+I'm a DevOps & Cloud Solution Architect with my speciality in product design, development and infrastructure. Currently, I am working as a Cloud Solutions Architect for Trend Micro.
 
 
 ### `Contribute` :clap:
